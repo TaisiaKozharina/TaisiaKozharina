@@ -10,7 +10,7 @@ Data Engineer, Data Scientist
 * ✨  Have experience in web and mobile development
 * 🎓  Almost bachelor in Computer Science (TSI, Latvia)
 * 🔎  Interested in machine learning, computer vision with specialization in biomedical image analysis.
-* 💃🏻  Hobbies include stressing over the amount of PET project ideas I will never have time to implement.
+* 💃🏻  Hobbies include stressing over the amount of pet project ideas I will never have time to implement.
 
 ### Skills
 
