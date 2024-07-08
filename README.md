@@ -8,7 +8,7 @@ Data Engineer, Data Scientist
 * 🚀  Currently working on [IHC artifact recognition project](http://https://github.com/TaisiaKozharina/WSI_artifact_segmentation)
 * 🧠  Learning PyTorch and Spark
 * ✨  Have experience in web and mobile development
-* 🎓  Almost bachelor in Computer Science (TSI, Latvia)
+* 🎓  Bachelor in Computer Science (TSI, Latvia)
 * 🔎  Interested in machine learning, computer vision with specialization in biomedical image analysis.
 * 💃🏻  Hobbies include stressing over the amount of pet project ideas I will never have time to implement.
 
