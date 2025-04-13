@@ -7,10 +7,10 @@ Data Engineer, Data Scientist
 * 🌍  Based in Latvia, Riga
 * 🚀  Currently working on [IHC artifact recognition project](http://https://github.com/TaisiaKozharina/WSI_artifact_segmentation)
 * 🧠  Learning PyTorch and Spark
-* ✨  Have experience in web and mobile development
-* 🎓  Bachelor in Computer Science (TSI, Latvia)
+* ✨  Previous experience: web & mobile full stack with React, TypeScript and Node.js, data engineering with Spark, Scala and AWS
+* 🎓  Bachelor in Computer Science (TSI, Latvia) | Joinin Uppsala Univeristy in Sept 2025 for Masters in Data Science and Image Analysis 💗
 * 🔎  Interested in machine learning, computer vision with specialization in biomedical image analysis.
-* 💃🏻  Hobbies include stressing over the amount of pet project ideas I will never have time to implement.
+* 💃🏻  Hobbies include stressing over the amount of pet project ideas I will never have time to implement. Also analogous photography and bad karaoke singing fuel my creative side.
 
 ### Skills
 
